@@ -2,6 +2,7 @@ Ianseo Docker
 =================
 
 Docker container for setting up Ianseo server (http://ianseo.net/)
+Based on Mikko Holappa's version, with an IANSEO update.
 
 Usage
 -----
